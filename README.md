@@ -4,13 +4,6 @@
 ![](https://img.shields.io/badge/-maskalev-black?style=for-the-badge)
 
 ![](https://img.shields.io/badge/-i'm-black?style=for-the-badge)
-![](https://img.shields.io/badge/-currently-black?style=for-the-badge)
-![](https://img.shields.io/badge/-studying-black?style=for-the-badge)
-![](https://img.shields.io/badge/-in-black?style=for-the-badge)
-[![](https://img.shields.io/badge/-yandex_praktikum-black?style=for-the-badge)](https://praktikum.yandex.ru)
-![](https://img.shields.io/badge/-to-black?style=for-the-badge)
-![](https://img.shields.io/badge/-be-black?style=for-the-badge)
-![](https://img.shields.io/badge/-an-black?style=for-the-badge)
 ![](https://img.shields.io/badge/-backend-black?style=for-the-badge)
 ![](https://img.shields.io/badge/-developer-black?style=for-the-badge)
 
