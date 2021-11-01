@@ -13,8 +13,6 @@
 ![](https://img.shields.io/badge/-is-black?style=for-the-badge)
 ![python](https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python)
 ![](https://img.shields.io/badge/-sql-black?style=for-the-badge&logo=sql)
-![html5](https://img.shields.io/badge/-html5-black?style=for-the-badge&logo=html5)
-![css3](https://img.shields.io/badge/-css3-black?style=for-the-badge&logo=css3)
 
 ![](https://img.shields.io/badge/-likewise-black?style=for-the-badge)
 ![](https://img.shields.io/badge/-i-black?style=for-the-badge)
@@ -22,6 +20,8 @@
 ![git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git)
 ![github](https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github)
 ![docker](https://img.shields.io/badge/-docker-black?style=for-the-badge&logo=docker)
+![html5](https://img.shields.io/badge/-html5-black?style=for-the-badge&logo=html5)
+![css3](https://img.shields.io/badge/-css3-black?style=for-the-badge&logo=css3)
 ![heroku](https://img.shields.io/badge/-heroku-black?style=for-the-badge&logo=heroku)
 
 ![](https://img.shields.io/badge/-i-black?style=for-the-badge)
