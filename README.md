@@ -12,11 +12,11 @@
 ![](https://img.shields.io/badge/-line-black?style=for-the-badge)
 ![](https://img.shields.io/badge/-is-black?style=for-the-badge)
 ![python](https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python)
-![](https://img.shields.io/badge/-sql-black?style=for-the-badge&logo=sql)
 
 ![](https://img.shields.io/badge/-likewise-black?style=for-the-badge)
 ![](https://img.shields.io/badge/-i-black?style=for-the-badge)
 ![](https://img.shields.io/badge/-use-black?style=for-the-badge)
+![](https://img.shields.io/badge/-sql-black?style=for-the-badge&logo=sql)
 ![git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git)
 ![github](https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github)
 ![docker](https://img.shields.io/badge/-docker-black?style=for-the-badge&logo=docker)
