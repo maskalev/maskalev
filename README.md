@@ -26,7 +26,7 @@
 
 ![](https://img.shields.io/badge/-i-black?style=for-the-badge)
 ![](https://img.shields.io/badge/-employ-black?style=for-the-badge)
-![pycharm](https://img.shields.io/badge/-pycharm-black?style=for-the-badge&logo=pycharm)
+![](https://img.shields.io/badge/-vscode-black?style=for-the-badge&logo=vscode)
 ![](https://img.shields.io/badge/-on-black?style=for-the-badge)
 ![linux](https://img.shields.io/badge/-linux-black?style=for-the-badge&logo=linux)
 
