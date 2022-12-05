@@ -22,7 +22,6 @@
 ![docker](https://img.shields.io/badge/-docker-black?style=for-the-badge&logo=docker)
 ![html5](https://img.shields.io/badge/-html5-black?style=for-the-badge&logo=html5)
 ![css3](https://img.shields.io/badge/-css3-black?style=for-the-badge&logo=css3)
-![heroku](https://img.shields.io/badge/-heroku-black?style=for-the-badge&logo=heroku)
 
 ![](https://img.shields.io/badge/-i-black?style=for-the-badge)
 ![](https://img.shields.io/badge/-employ-black?style=for-the-badge)
