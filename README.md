@@ -34,3 +34,5 @@
 [![Mail](https://img.shields.io/badge/-avmaskalev@gmail.com-black?style=for-the-badge&logo=gmail)](mailto:avmaskalev@gmail.com)
 ![](https://img.shields.io/badge/-or-black?style=for-the-badge)
 [![Telegram](https://img.shields.io/badge/-clickclickclick-black?style=for-the-badge&logo=telegram)](https://t.me/clickclickclick)
+
+[![wakatime](https://wakatime.com/badge/user/0d7f2e86-6a35-49ef-bdc5-e9befed1305b.svg)](https://wakatime.com/@0d7f2e86-6a35-49ef-bdc5-e9befed1305b)
