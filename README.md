@@ -29,10 +29,8 @@
 ![](https://img.shields.io/badge/-on-black?style=for-the-badge)
 ![linux](https://img.shields.io/badge/-linux-black?style=for-the-badge&logo=linux)
 
-![](https://img.shields.io/badge/-write-black?style=for-the-badge)
-![](https://img.shields.io/badge/-me-black?style=for-the-badge)
+[![Linkedin](https://img.shields.io/badge/-aleksandr_maskalev-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aleksandr-maskalev/)
 [![Mail](https://img.shields.io/badge/-avmaskalev@gmail.com-black?style=for-the-badge&logo=gmail)](mailto:avmaskalev@gmail.com)
-![](https://img.shields.io/badge/-or-black?style=for-the-badge)
 [![Telegram](https://img.shields.io/badge/-clickclickclick-black?style=for-the-badge&logo=telegram)](https://t.me/clickclickclick)
 
 [![wakatime](https://wakatime.com/badge/user/0d7f2e86-6a35-49ef-bdc5-e9befed1305b.svg)](https://wakatime.com/@0d7f2e86-6a35-49ef-bdc5-e9befed1305b)
